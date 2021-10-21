@@ -1,5 +1,5 @@
 # way-too-basic text encryption service
-a python script to very basic text encryption or decryption
+a python script for very basic text encryption or decryption
 
 the script uses basic alphabet swap encryption method relying on 8-bit binaries
 
