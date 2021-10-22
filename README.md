@@ -4,7 +4,7 @@ a python script for very basic text encryption or decryption
 the script uses basic alphabet swap encryption method relying on 8-bit binaries
 
 # how to use
-so basically u go releases and download the latest release in pyc format, then run the app to start encrypting and decrypting data!
+so basically u go releases page on the right and download the latest release in pyc format, then run the app to start encrypting and decrypting data!
 
 refer to below for system-specific instructions
 
