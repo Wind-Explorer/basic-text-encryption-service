@@ -7,7 +7,7 @@ the script uses basic alphabet swap encryption method relying on 8-bit binaries
 so basically u go releases and download the latest release in pyc format, then run the app to start encrypting and decrypting data!
 
 # how to use the keys
-a sample key is provided besides the readme file. download it and place the file (LEAVE THE NAME AS IT IS) in the same folder as the app itself.
+a sample key is provided above this documentation. download it and place the file (LEAVE THE NAME AS IT IS) in the same folder as the app itself.
 
 the data in the key is made up of 0s and 1s, similar to binaries but encoded in UTF-8, a format that can be read by text editors.
 
