@@ -22,7 +22,7 @@ if you still do not know how to run a script in Linux, you really shouldn't be u
 
 but first, install Python like in Windows and Mac by going into system terminal, run "sudo apt install python3", then download the script and key from this page.
 
-return to the terminal, run "python3 app_name.pyc" just like in Android.
+return to the terminal, go to the folder containing the downloaded assets and run "python3 app_name.pyc" just like in Android.
 
 # how to use the keys
 a sample key is provided above this documentation. download it and place the file (LEAVE THE NAME AS IT IS) in the same folder as the app itself.
