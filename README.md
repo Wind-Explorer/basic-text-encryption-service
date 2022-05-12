@@ -4,28 +4,26 @@ a python script for very basic text encryption or decryption
 the script uses basic alphabet swap encryption method relying on 8-bit binaries
 
 # how to use
-so basically u go releases page on the right and download the latest release in pyc format together with a sample key from above this documentation^^^, drop everything into one folder then run the app to start encrypting and decrypting data!
+You will need `git` installed. Guide can be found [here][5].
+Download (clone) this repository onto your device with `git clone https://github.com/Wind-Explorer/way-too-basic-text-encryption-service.git` in a terminal. Change your working directory into the downloaded repository with `dir ./way-too-basic-text-encryption-service` for Windows or `cd ./way-too-basic-text-encryption-service` for any other device and enter `python3 ./main.py` to run the script.
 
-refer to below for system-specific instructions
+refer to below for system-specific terminal access instructions
 
-# for Windows 7/8/9/10 or macOS Catalina/Big Sur/Monterey:
-you do need a basic installation of python for the script to execute. I recommend [Python 3.9.7][2].
+# for Windows:
+you do need a basic installation of python for the script to execute. I recommend [Python 3.9.7][2]. Install python by opening a command prompt from the start menu, search for "cmd", then select the "Command Prompt" app (on Windows 10 and below) or "Windows Terminal" (on Windows 11 or above). In the terminal, enter `python` or `python3` and Microsoft Store would show up, prmpting you to install Python if it is not. Afterwards, follow steps above.
 
 # for Android:
-not recommended to be used on Android because it is quite troublesome although it works, use a terminal emulator like [Termux][3] for emulating terminal, then run command "apt install python3" to install Python, then navigate to the downloaded script with "ls" to list files, "cd" to change directory and "python3 app_name.pyc" to execute the script.
+not recommended to be used on Android because it is quite troublesome although it works, use a terminal emulator like [Termux][3] for terminal access. In the terminal, enter `apt install python3` to install Python, then follow steps above
 
 # for iOS/iPadOS:
-not recommended but similar to steps for Android. I recommend [LibTerm][4] for emulating terminal. Python should be pre-installed, then follow the same steps as Android.
+not recommended but similar to for Android. I recommend [LibTerm][4] for emulating terminal. Python should be pre-installed. Follow steps above.
 
 # for Linux systems:
-if you still do not know how to run a script in Linux, you really shouldn't be using Linux. Windows is the way to go for you.
+Open a terminal window, install Python with this [guide][6], then follow steps above.
 
-but first, install Python like in Windows and Mac by going into system terminal, run "sudo apt install python3", then download the script and key from this page.
-
-return to the terminal, go to the folder containing the downloaded assets and run "python3 app_name.pyc" just like in Android.
 
 # how to use the keys
-a sample key is provided above this documentation. download it and place the file (LEAVE THE NAME AS IT IS) in the same folder as the app itself.
+a sample key is provided in the downloaded repository named "data.teskey". The name of this file should not be changed. Content in the key can be modified, for example replacing them with your own key.
 
 the data in the key is made up of 0s and 1s, similar to binaries but encoded in UTF-8, a format that can be read by text editors.
 
@@ -48,3 +46,5 @@ graphical user interface (quite unnecessry and will cut down compatibility on so
 [2]: https://www.python.org/downloads/release/python-397/
 [3]: https://play.google.com/store/apps/details?id=com.termux
 [4]: https://apps.apple.com/us/app/libterm/id1380911705
+[5]: https://github.com/git-guides/install-git
+[6]: https://docs.python.org/3/using/unix.html
