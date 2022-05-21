@@ -10,7 +10,7 @@ Download (clone) this repository onto your device with `git clone https://github
 refer to below for system-specific terminal access instructions
 
 # for Windows:
-you do need a basic installation of python for the script to execute. I recommend [Python 3.9.7][2]. Install python by opening a command prompt from the start menu, search for "cmd", then select the "Command Prompt" app (on Windows 10 and below) or "Windows Terminal" (on Windows 11 or above). In the terminal, enter `python` or `python3` and Microsoft Store would show up, prmpting you to install Python if it is not. Afterwards, follow steps above.
+you do need a basic installation of python for the script to execute. I recommend [Python 3.9.7][2]. Install python by opening a command prompt (search for "cmd" in start menu, then select the "Command Prompt" app (on Windows 10 and below) or "Windows Terminal" (on Windows 11 or above)). In the terminal, enter `python` or `python3` and Microsoft Store would show up, prmpting you to install Python if it is not. Afterwards, follow steps above.
 
 # for Android:
 not recommended to be used on Android because it is quite troublesome although it works, use a terminal emulator like [Termux][3] for terminal access. In the terminal, enter `apt install python3` to install Python, then follow steps above
