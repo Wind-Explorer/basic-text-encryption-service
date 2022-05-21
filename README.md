@@ -1,11 +1,11 @@
-# way-too-basic text encryption service
+# basic text encryption service
 a python script for very basic text encryption or decryption
 
 the script uses basic alphabet swap encryption method relying on 8-bit binaries
 
 # how to use
 You will need `git` installed. Guide can be found [here][5].
-Download (clone) this repository onto your device with `git clone https://github.com/Wind-Explorer/way-too-basic-text-encryption-service.git` in a terminal. Change your working directory into the downloaded repository with `dir ./way-too-basic-text-encryption-service` for Windows or `cd ./way-too-basic-text-encryption-service` for any other device and enter `python3 ./main.py` to run the script.
+Download (clone) this repository onto your device with `git clone https://github.com/Wind-Explorer/basic-text-encryption-service.git` in a terminal. Change your working directory into the downloaded repository with `dir ./basic-text-encryption-service` for Windows or `cd ./basic-text-encryption-service` for any other device and enter `python3 ./main.py` to run the script.
 
 refer to below for system-specific terminal access instructions
 
